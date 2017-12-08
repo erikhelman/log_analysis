@@ -23,3 +23,22 @@ This project requires
 1. To load the tables and data, cd into the working directory and use the command "psql -d news -f newsdata.sql".
 2. To create the views that support the queries, use the command "psql -d news -f views.sql".
 3. Execute the program by running "python log_analysis.py".
+
+The output will appear as below
+
+Most Viewed Articles 
+
+Candidate is jerk, alleges rival - 338647 views
+Bears love berries, alleges bear - 253801 views
+Bad things gone, say good people - 170098 views
+
+Most Popular Authors
+
+Ursula La Multa - 507594 views
+Rudolf von Treppenwitz - 423457 views
+Anonymous Contributor - 170098 views
+Markoff Chaney - 84557 views
+
+Dates When Errors Exceed 1%
+
+2016-07-17 - 2.26% errors
