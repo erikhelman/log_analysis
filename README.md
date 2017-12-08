@@ -28,16 +28,16 @@ The output will appear as below
 
 Most Viewed Articles 
 
-Candidate is jerk, alleges rival - 338647 views
-Bears love berries, alleges bear - 253801 views
-Bad things gone, say good people - 170098 views
+Candidate is jerk, alleges rival - 338647 views <br>
+Bears love berries, alleges bear - 253801 views <br>
+Bad things gone, say good people - 170098 views <br>
 
 Most Popular Authors
 
-Ursula La Multa - 507594 views
-Rudolf von Treppenwitz - 423457 views
-Anonymous Contributor - 170098 views
-Markoff Chaney - 84557 views
+Ursula La Multa - 507594 views <br>
+Rudolf von Treppenwitz - 423457 views <br>
+Anonymous Contributor - 170098 views <br>
+Markoff Chaney - 84557 views <br>
 
 Dates When Errors Exceed 1%
 
